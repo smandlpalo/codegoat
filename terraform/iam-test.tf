@@ -28,7 +28,7 @@ resource "aws_iam_policy" "policy_resource_fail" {
     git_last_modified_at = "2022-10-26 12:53:34"
     git_last_modified_by = "mroberts@paloaltonetworks.com"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "5c3c5011-041d-487a-a6e6-3072edc7b5e6"
   }
@@ -64,7 +64,7 @@ resource "aws_iam_policy" "policy_resource_pass" {
     git_last_modified_at = "2022-10-26 12:53:34"
     git_last_modified_by = "mroberts@paloaltonetworks.com"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "e56108da-6d0e-4e78-8fc5-f3f2567ffed9"
   }
