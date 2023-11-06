@@ -10,7 +10,7 @@ resource "aws_db_subnet_group" "example_rds_subnet_grp" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "f2a1cfe5-e3d1-4f3e-8934-4d6114ead100"
   })
@@ -28,7 +28,7 @@ resource "aws_security_group" "example_rds_sg" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "a135de5a-372b-4b70-98ad-3775ef91c7fb"
   })
@@ -61,7 +61,7 @@ resource "aws_kms_key" "example_db_kms_key" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "988b0096-39e5-4077-99dd-120eb990cd1d"
   })
@@ -91,7 +91,7 @@ resource "aws_db_instance" "example_db" {
     git_last_modified_at = "2022-09-26 18:17:07"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "402cb8e8-703c-4778-af81-f322be4fc5d9"
   })
@@ -109,7 +109,7 @@ resource "aws_ssm_parameter" "example_ssm_db_host" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "4fbfdb10-f5bf-424b-af46-ab69cbb0df3c"
   })
@@ -127,7 +127,7 @@ resource "aws_ssm_parameter" "example_ssm_db_password" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "d066cbee-4067-495c-8377-3294ec8f5509"
   })
@@ -145,7 +145,7 @@ resource "aws_ssm_parameter" "example_ssm_db_user" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "218214f1-78c9-49f0-bef6-b65b3da80461"
   })
@@ -164,7 +164,7 @@ resource "aws_ssm_parameter" "example_ssm_db_name" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "f6cfbef0-a5d1-4630-a933-52adf04af603"
   })
@@ -181,7 +181,7 @@ resource "aws_s3_bucket" "my-private-bucket" {
     git_last_modified_at = "2022-09-26 20:54:59"
     git_last_modified_by = "mroberts@paloaltonetworks.com"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "26ecaeea-c233-4e1f-a4ae-a8bcb8854244"
   })
@@ -198,7 +198,7 @@ resource "aws_s3_bucket" "public-bucket-oops" {
     git_last_modified_at = "2022-09-26 20:54:59"
     git_last_modified_by = "mroberts@paloaltonetworks.com"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "7ecefeab-6519-4a8e-a3f6-8c849f9eff19"
   })

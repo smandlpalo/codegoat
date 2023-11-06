@@ -6,7 +6,7 @@ resource "aws_vpc" "example" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "595c04ed-9f1f-4884-9d0c-d9e81b3d45de"
   }
@@ -27,7 +27,7 @@ resource "aws_default_security_group" "default" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "ea82ec59-36e8-4723-8e71-e3dcac8779c6"
   }
@@ -50,7 +50,7 @@ resource "aws_security_group" "allow_all_ssh" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "dc774db6-b43d-473c-81bc-e56179320756"
   }
@@ -73,7 +73,7 @@ resource "aws_security_group" "allow_ssh_from_valid_cidr" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "fc4802fc-f95c-474e-bb7f-821f148741cb"
   }
