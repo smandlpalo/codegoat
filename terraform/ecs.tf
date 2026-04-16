@@ -34,7 +34,7 @@ resource "aws_ecs_task_definition" "service" {
     git_last_modified_at = "2022-10-11 17:12:10"
     git_last_modified_by = "104632309+mroberts-panw@users.noreply.github.com"
     git_modifiers        = "104632309+mroberts-panw"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "54731c2c-d768-458c-8625-5e1fc91901ac"
   }

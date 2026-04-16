@@ -8,7 +8,7 @@ resource "aws_subnet" "primary" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "de17a83e-d2cf-41c2-833f-c959687ccca6"
   }
@@ -24,7 +24,7 @@ resource "aws_subnet" "secondary" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "7c0c6cf6-3882-483b-937c-801545bb27f0"
   }

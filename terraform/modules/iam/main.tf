@@ -15,7 +15,7 @@ resource "aws_iam_role" "admin-role" {
     git_last_modified_at = "2022-09-22 19:07:11"
     git_last_modified_by = "mroberts@m-c02ff1nqml85.paloaltonetworks.local"
     git_modifiers        = "mroberts"
-    git_org              = "try-bridgecrew"
+    git_org              = "smandlpalo"
     git_repo             = "codegoat"
     yor_trace            = "6b7b8033-6e0a-482d-acc4-05584f723771"
   }
